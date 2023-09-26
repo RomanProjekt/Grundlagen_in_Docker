@@ -1,7 +1,5 @@
 # Grundlagen_Docker
 
-Grundlagen: Docker
-
 Status: fortlaufend
 
 Grundlagen: Docker
