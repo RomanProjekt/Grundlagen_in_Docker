@@ -1,3 +1,4 @@
+#!!!! the target folder - app.jar was not upload to the git repository !!! 
 
 #Basic Image: 
 #https://hub.docker.com/_/eclipse-temurin
