@@ -9,4 +9,4 @@ Grundlagen: Docker
 - Docker Übung mit einem JavaScript-File
 - Docker Übung mit einem Python-File
 - Hello-World Example (Spring Boot Projekt) mit Restfull + Running in docker container
-- Anuglar Projekt + Running in docker container
+- Anuglar-Start-Projct + Running in docker container
