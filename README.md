@@ -1,4 +1,5 @@
 # Grundlagen in Docker
+
 Status: fortlaufend
 
 Grundlagen: Docker
@@ -7,4 +8,5 @@ Grundlagen: Docker
 - Docker Übung mit einem php-File
 - Docker Übung mit einem JavaScript-File
 - Docker Übung mit einem Python-File
-- Einfaches Hello-World Example (Spring Boot Projekt) mit Restfull + Running in der Docker 
+- Hello-World Example (Spring Boot Projekt) mit Restfull + Running in docker container
+- Anuglar Projekt + Running in docker container
