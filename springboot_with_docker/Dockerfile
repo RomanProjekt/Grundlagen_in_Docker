@@ -30,3 +30,12 @@ COPY target/*.jar app.jar
 
 # exexution of jar-Files : [java] [-jar] [path to the jar-file]
 ENTRYPOINT ["java","-jar","/app.jar"]
+
+
+#1. Create a JAR File in you target directory "COPY target/*.jar app.jar"
+#in the 16 line
+
+#2. Intellij -> File -> Project structure -> Artifacts -> JAR -> "+Button" -> "from modules to dependencies"
+# take the main File 
+
+#3. Intellij -> Build  -> Build factory -> build the java File 
